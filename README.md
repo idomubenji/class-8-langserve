@@ -1,4 +1,4 @@
-# Week 7.3: LangServe Demos
+# Class 8: LangServe
 
 ## NOTE
 The folowing instructions are extras for the `demo` directory. For the main deployment example, see the [DEPLOYMENT README](./README-DEPLOYMENT.md).

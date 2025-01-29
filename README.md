@@ -1,7 +1,7 @@
 # Class 8: LangServe
 
 ## NOTE
-The folowing instructions are extras for the `demo` directory. For the main deployment example, see the [DEPLOYMENT README](./DEPLOYMENT.md).
+The folowing instructions are for the `demo` directory meant to showcase live example in class. For the main deployment example, see the [DEPLOYMENT README](./DEPLOYMENT.md).
 
 ## Slides
 [Slides](https://docs.google.com/presentation/d/1DeyaHhVfG2QFNPOTl_G3p0miGIgdvbow3cRzhajA7gI/edit?usp=sharing)
